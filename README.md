@@ -18,6 +18,3 @@ This is a Python tool I built to track expenses and income. It works with simple
 2. Install the libraries: `pip install pandas matplotlib`.
 3. Run the script: `python main.py`.
 4. Follow the prompts to enter your data.
-
----
-By Natasha Kalosi
